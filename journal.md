@@ -4,6 +4,15 @@ Ce fichier sert de mémoire entre sessions : sujets déjà couverts, remarques, 
 
 ---
 
+## Préférences du lecteur (à respecter à chaque session)
+
+- **Cœur de cible (aller en profondeur, peu vulgariser) :** informatique fondamentale & appliquée, systèmes à base d'agents, systèmes complexes, IA. Détails techniques bienvenus ici.
+- **Sciences en général :** variété bienvenue, y compris sujets pointus, **mais bien vulgariser**.
+- **Informatique quantique : intérêt limité.** Ne PAS en faire un rendez-vous récurrent. En parler **seulement pour les annonces vraiment majeures**, et de façon **vulgarisée** — le lecteur ne lit pas les articles techniques du domaine (pas de plongée dans les preuves/QEC/hardware quantique). *(feedback 2026-07-03)*
+- Toujours donner les **sources** (liens) pour consultation directe.
+
+---
+
 ## Sessions
 
 | Date       | Thèmes couverts | Tags | Remarques |
