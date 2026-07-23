@@ -296,7 +296,9 @@ main{max-width:var(--maxw); margin:0 auto; padding:1.6rem 1.2rem 3rem}
 .entry{overflow-wrap:break-word}
 .entry h1{font-size:1.9rem; line-height:1.2; margin:.2rem 0 1rem}
 .entry h2{font-size:1.45rem; margin:2.2rem 0 .8rem; padding-top:.6rem; border-top:1px solid var(--border)}
-.entry h3{font-size:1.15rem; margin:1.6rem 0 .6rem; color:var(--accent)}
+.entry h3{font-size:1.2rem; margin:1.8rem 0 .2rem; color:var(--accent)}
+.entry h3 + p{margin-top:.15rem; color:var(--muted); font-size:.9rem}
+.entry h3 + p em{font-style:normal}
 .entry p{margin:.8rem 0}
 a{color:var(--link)}
 a:hover{color:var(--accent)}

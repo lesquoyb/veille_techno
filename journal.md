@@ -13,6 +13,12 @@ Ce fichier sert de mémoire entre sessions : sujets déjà couverts, remarques, 
 - **Sciences en général :** variété bienvenue, y compris sujets pointus, **mais bien vulgariser**.
 - **Informatique quantique : intérêt limité.** Ne PAS en faire un rendez-vous récurrent. En parler **seulement pour les annonces vraiment majeures**, et de façon **vulgarisée** — le lecteur ne lit pas les articles techniques du domaine (pas de plongée dans les preuves/QEC/hardware quantique). *(feedback 2026-07-03)*
 - **Ne PAS renvoyer au lecteur ses propres consignes dans le texte** *(feedback 2026-07-23)*. Bannir du contenu publié les étiquettes-méta du type « thème DISTINCT », « cœur de cible », « le VRAI sens multi-agents », « conforme au feedback du… », « à ne pas confondre (rappel) ». Le lecteur donne les instructions et les connaît. **Séparer** les sujets (sections distinctes) **sans commenter** cette séparation ni citer les dates de feedback. Ces notes de cadrage restent **internes au journal** (mémoire), jamais dans les entrées quotidiennes.
+- **Format des entrées (web-friendly)** *(feedback 2026-07-23)*. Structurer pour un rendu propre sur le site, tout en restant concis :
+  - `# Titre` en 1re ligne, puis un **chapô en `>`** (accroche, réutilisée sur la carte d'accueil) — commencer le chapô par `**Fil rouge : …**`.
+  - `## N. Grand thème` pour les sections ; **`### Titre descriptif`** par sujet (PAS « ### 1a. arXiv:… » : le titre doit décrire le contenu), suivi d'une ligne **`*dateline en italique*`** = `arXiv:id — Auteurs (labos)` ou `Revue (date) — Institutions`.
+  - Paragraphes **courts** ; **listes à puces** pour les résultats énumérés ; **gras réservé** aux termes-clés (ne PAS préfixer chaque paragraphe d'un gras type « **Le décor.** »).
+  - Ligne de sources compacte : `Sources : [label](url) · [label](url)`.
+  - Éviter les récaps redondants en fin d'entrée (le chapô + la vue d'ensemble suffisent).
 - Toujours donner les **sources** (liens) pour consultation directe.
 
 ---
