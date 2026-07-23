@@ -2,6 +2,8 @@
 
 Ce fichier sert de mémoire entre sessions : sujets déjà couverts, remarques, orientations.
 
+> **Publication.** Un site GitHub Pages (blog) est généré automatiquement à partir des entrées `AAAA-MM-JJ.md` via `.github/workflows/pages.yml` (build : `scripts/build_site.py`). **Rien à faire au quotidien** : ajouter le fichier du jour à la racine suffit, l'action reconstruit le site au push. `journal.md` n'est **pas** publié (le générateur l'exclut). Ne pas casser le format des entrées : un titre `# ...` en première ligne + un chapô en `>` juste après (sert d'accroche sur la carte d'accueil).
+
 ---
 
 ## Préférences du lecteur (à respecter à chaque session)
@@ -10,6 +12,7 @@ Ce fichier sert de mémoire entre sessions : sujets déjà couverts, remarques, 
 - **⚠️ « Systèmes multi-agents » = sens SYSTÈMES COMPLEXES par défaut** *(feedback 2026-07-06)*. Le lecteur entend **la branche des systèmes complexes** : populations d'agents (souvent simples) dont les **interactions locales font émerger** un comportement global — ABM (agent-based modeling), essaims/swarm, matière active/flocking, dynamiques d'opinion & consensus, **théorie des jeux évolutionnaire**, réseaux d'ordre supérieur (hypergraphes), auto-organisation, criticité, émergence. Tradition « Santa Fe / ALIFE », **PAS** (uniquement) l'IA agentique LLM. → **L'IA agentique** (LLM outillés qui coordonnent une tâche : MARL-LLM, orchestration, agents outillés) reste **intéressante mais est un thème DISTINCT**, à **étiqueter clairement** comme tel. Ne pas confondre les deux ; couvrir les deux, séparément.
 - **Sciences en général :** variété bienvenue, y compris sujets pointus, **mais bien vulgariser**.
 - **Informatique quantique : intérêt limité.** Ne PAS en faire un rendez-vous récurrent. En parler **seulement pour les annonces vraiment majeures**, et de façon **vulgarisée** — le lecteur ne lit pas les articles techniques du domaine (pas de plongée dans les preuves/QEC/hardware quantique). *(feedback 2026-07-03)*
+- **Ne PAS renvoyer au lecteur ses propres consignes dans le texte** *(feedback 2026-07-23)*. Bannir du contenu publié les étiquettes-méta du type « thème DISTINCT », « cœur de cible », « le VRAI sens multi-agents », « conforme au feedback du… », « à ne pas confondre (rappel) ». Le lecteur donne les instructions et les connaît. **Séparer** les sujets (sections distinctes) **sans commenter** cette séparation ni citer les dates de feedback. Ces notes de cadrage restent **internes au journal** (mémoire), jamais dans les entrées quotidiennes.
 - Toujours donner les **sources** (liens) pour consultation directe.
 
 ---
